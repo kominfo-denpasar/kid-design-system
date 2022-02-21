@@ -11,7 +11,8 @@
 
 1. `git clone https://github.com/samuelhorn/jamdocs project-name`.
 2. `cd project-name`
-3. `gridsome develop`.
+3. `npm install`
+4. `gridsome develop`
 
 ## Deploy to Netlify
 
